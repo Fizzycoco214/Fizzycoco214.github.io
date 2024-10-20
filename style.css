@@ -1,0 +1,33 @@
+body {
+    background-color: #190e25;
+    font-family: 'Londrina Solid', sans-serif;
+    color:bisque;
+    margin: 0;
+    padding: 0;
+      
+}
+
+
+.londrina-solid-thin {
+    font-family: "Londrina Solid", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    }
+    
+.londrina-solid-light {
+font-family: "Londrina Solid", sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.londrina-solid-regular {
+font-family: "Londrina Solid", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.londrina-solid-black {
+font-family: "Londrina Solid", sans-serif;
+font-weight: 900;
+font-style: normal;
+}
