@@ -1,3 +1,22 @@
+h1 {
+    font-size: 5em;
+    color: bisque;
+    text-align: center;
+    line-height: 0.5em;
+    margin-top: 0;
+    padding-top: 1em;
+    background-color: #190e25;
+}
+
+h2 {
+    font-size: 2em;
+    color: bisque;
+    text-align: center;
+    margin-top: -10;
+    
+    background-color: #190e25;
+}
+
 body {
     background-color: #190e25;
     font-family: 'Londrina Solid', sans-serif;
